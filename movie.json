@@ -1,0 +1,18 @@
+{
+    "tmdb_id": 419704,
+    "poster_path": "https://image.tmdb.org/t/p/w500/xBHvZcjRiWyobQ9kxBhO6B2dtRI.jpg",
+    "genres": [
+            {
+                "name": "Action"
+            },
+            {
+                "name": "Adventure"
+            }
+        ],
+    "spoken_languages": [
+        {
+            "name": "English",
+            "video_url": "https://ok.ru/videoembed/1791788321396"
+        }
+    ]
+}
