@@ -2,7 +2,7 @@
     "catogory": "Comedia",
     "data": [{
             "tmdb_id": 405177,
-            "poster_path": "https://image.tmdb.org/t/p/original/BziuuZULnGmTRLthEty1QdKSEo.jpg",
+            "poster_path": "https://image.tmdb.org/t/p/w500/BziuuZULnGmTRLthEty1QdKSEo.jpg",
             "spoken_languages": [{
                     "name": "Latino",
                     "video_url": "https://feurl.com/v/38r2lim6r6p016e"
@@ -19,7 +19,7 @@
         },
         {
             "tmdb_id": 187017,
-            "poster_path": "https://image.tmdb.org/t/p/original/2KNIG63EGYe6BmhGi7e7OfSDJcy.jpg",
+            "poster_path": "https://image.tmdb.org/t/p/w500/2KNIG63EGYe6BmhGi7e7OfSDJcy.jpg",
             "spoken_languages": [{
                     "name": "Latino",
                     "video_url": "https://www.playembed.com/v/j-8y7hdq6zgj-qy"
@@ -32,7 +32,7 @@
         },
         {
             "tmdb_id": 654299,
-            "poster_path": "https://image.tmdb.org/t/p/original/6DWHIsyATnJwgMgcZ692GVrx6T2.jpg",
+            "poster_path": "https://image.tmdb.org/t/p/w500/6DWHIsyATnJwgMgcZ692GVrx6T2.jpg",
             "spoken_languages": [{
                     "name": "Latino",
                     "video_url": "https://www.playembed.com/v/my8gra5450g61lp"
@@ -45,7 +45,7 @@
         },
         {
             "tmdb_id": 64688,
-            "poster_path": "https://image.tmdb.org/t/p/original/aOcbZEKtROYyHU4JDyQm6YpbG2f.jpg",
+            "poster_path": "https://image.tmdb.org/t/p/w500/aOcbZEKtROYyHU4JDyQm6YpbG2f.jpg",
             "spoken_languages": [{
                     "name": "Latino",
                     "video_url": "https://www.playembed.com/v/ky8xda3jwlge8d2"
@@ -62,7 +62,7 @@
         },
         {
             "tmdb_id": 195589,
-            "poster_path": "https://image.tmdb.org/t/p/original/f3zFfLgh0snxZxcOHxDYAyczXGA.jpg",
+            "poster_path": "https://image.tmdb.org/t/p/w500/f3zFfLgh0snxZxcOHxDYAyczXGA.jpg",
             "spoken_languages": [{
                     "name": "Latino",
                     "video_url": "https://www.playembed.com/v/y2x10ie7ew6z62p"
@@ -75,7 +75,7 @@
         },
         {
             "tmdb_id": 325133,
-            "poster_path": "https://image.tmdb.org/t/p/original/nVE18oyPTFX3h7ufL6N4w2D4vL8.jpg",
+            "poster_path": "https://image.tmdb.org/t/p/w500/nVE18oyPTFX3h7ufL6N4w2D4vL8.jpg",
             "spoken_languages": [{
                     "name": "Latino",
                     "video_url": "https://www.playembed.com/v/j-8y7hdqd1dn8dd"
@@ -92,7 +92,7 @@
         },
         {
             "tmdb_id": 482981,
-            "poster_path": "https://image.tmdb.org/t/p/original/iTmP1q4EIdeJWtVjMNX9O0CGoY9.jpg",
+            "poster_path": "https://image.tmdb.org/t/p/w500/iTmP1q4EIdeJWtVjMNX9O0CGoY9.jpg",
             "spoken_languages": [{
                     "name": "Latino",
                     "video_url": "https://www.fembed.com/v/rmqr3tepy243z11"
@@ -109,7 +109,7 @@
         },
         {
             "tmdb_id": 338967,
-            "poster_path": "https://image.tmdb.org/t/p/original/mIUGQ89isLNj4IRujDsXrZFIZCQ.jpg",
+            "poster_path": "https://image.tmdb.org/t/p/w500/mIUGQ89isLNj4IRujDsXrZFIZCQ.jpg",
             "spoken_languages": [{
                     "name": "Latino",
                     "video_url": "https://www.playembed.com/v/x4wpdh5315er8r-"
@@ -122,7 +122,7 @@
         },
         {
             "tmdb_id": 635031,
-            "poster_path": "https://image.tmdb.org/t/p/original/yTzUT341y6ZxN8Ftu76WJ0R4iGY.jpg",
+            "poster_path": "https://image.tmdb.org/t/p/w500/yTzUT341y6ZxN8Ftu76WJ0R4iGY.jpg",
             "spoken_languages": [{
                     "name": "Latino",
                     "video_url": "https://www.playembed.com/v/y2x10ie7wyxgz0y"
@@ -135,7 +135,7 @@
         },
         {
             "tmdb_id": 586599,
-            "poster_path": "https://image.tmdb.org/t/p/original/iSo0NoWvTtZf9S9PrfUo3kWI0Xa.jpg",
+            "poster_path": "https://image.tmdb.org/t/p/w500/iSo0NoWvTtZf9S9PrfUo3kWI0Xa.jpg",
             "spoken_languages": [{
                 "name": "Latino",
                 "video_url": "https://feurl.com/v/58z1lidgpe0-05m"
