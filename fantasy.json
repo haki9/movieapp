@@ -1,179 +1,104 @@
 {
-    "catogory": "Fantasy",
-    "data": [   
-                {
-                     "tmdb_id": 419704,
-                     "poster_path": "https://image.tmdb.org/t/p/w500/xBHvZcjRiWyobQ9kxBhO6B2dtRI.jpg",
-                     "genres": [{
-                             "name": "Action"
-                         },
-                         {
-                             "name": "Adventure"
-                         }
-                     ],
-                     "spoken_languages": [{
-                         "name": "English",
-                         "video_url": "https://ok.ru/videoembed/1791788321396"
-                     }]
+    "catogory": "Terror",
+    "data": [{
+            "tmdb_id": 287903,
+            "poster_path": "https://image.tmdb.org/t/p/original/cBhZQnvlj0fOwDT6qrTz5f9nsGA.jpg",
+            "spoken_languages": [{
+                "name": "Latino",
+                "video_url": "https://www.playembed.com/v/605zws0gpzz1erz"
+            }]
+        },
+        {
+            "tmdb_id": 417384,
+            "poster_path": "https://image.tmdb.org/t/p/original/2o2thWyv4q1s5CLkc1ffxyVFkti.jpg",
+            "spoken_languages": [{
+                    "name": "Latino",
+                    "video_url": "https://www.playembed.com/v/qy832aekj1l1xjy"
                 },
                 {
-                    "tmdb_id": 512200,
-                    "poster_path": "https://image.tmdb.org/t/p/w500/jyw8VKYEiM1UDzPB7NsisUgBeJ8.jpg",
-                    "genres": [{
-                            "name": "Action"
-                        },
-                        {
-                            "name": "Adventure"
-                        }
-                    ],
-                    "spoken_languages": [{
-                        "name": "English",
-                        "video_url": "https://ok.ru/videoembed/1791784716916"
-                    }]
-                },
-                {
-                    "tmdb_id": 449924,
-                    "poster_path": "https://image.tmdb.org/t/p/w500/yJdeWaVXa2se9agI6B4mQunVYkB.jpg",
-                    "genres": [{
-                            "name": "Action"
-                        },
-                        {
-                            "name": "Adventure"
-                        }
-                    ],
-                    "spoken_languages": [{
-                        "name": "English",
-                        "video_url": "https://ok.ru/videoembed/1791780326004"
-                    }]
-                },
-                {
-                    "tmdb_id": 419704,
-                    "poster_path": "https://image.tmdb.org/t/p/w500/xBHvZcjRiWyobQ9kxBhO6B2dtRI.jpg",
-                    "genres": [{
-                            "name": "Action"
-                        },
-                        {
-                            "name": "Adventure"
-                        }
-                    ],
-                    "spoken_languages": [{
-                        "name": "English",
-                        "video_url": "https://ok.ru/videoembed/1791788321396"
-                    }]
-                }, {
-                    "tmdb_id": 512200,
-                    "poster_path": "https://image.tmdb.org/t/p/w500/jyw8VKYEiM1UDzPB7NsisUgBeJ8.jpg",
-                    "genres": [{
-                            "name": "Action"
-                        },
-                        {
-                            "name": "Adventure"
-                        }
-                    ],
-                    "spoken_languages": [{
-                        "name": "English",
-                        "video_url": "https://ok.ru/videoembed/1791784716916"
-                    }]
-                }, {
-                    "tmdb_id": 449924,
-                    "poster_path": "https://image.tmdb.org/t/p/w500/yJdeWaVXa2se9agI6B4mQunVYkB.jpg",
-                    "genres": [{
-                            "name": "Action"
-                        },
-                        {
-                            "name": "Adventure"
-                        }
-                    ],
-                    "spoken_languages": [{
-                        "name": "English",
-                        "video_url": "https://ok.ru/videoembed/1791780326004"
-                    }]
-                },
-                {
-                    "tmdb_id": 419704,
-                    "poster_path": "https://image.tmdb.org/t/p/w500/xBHvZcjRiWyobQ9kxBhO6B2dtRI.jpg",
-                    "genres": [{
-                            "name": "Action"
-                        },
-                        {
-                            "name": "Adventure"
-                        }
-                    ],
-                    "spoken_languages": [{
-                        "name": "English",
-                        "video_url": "https://ok.ru/videoembed/1791788321396"
-                    }]
-                }, {
-                    "tmdb_id": 512200,
-                    "poster_path": "https://image.tmdb.org/t/p/w500/jyw8VKYEiM1UDzPB7NsisUgBeJ8.jpg",
-                    "genres": [{
-                            "name": "Action"
-                        },
-                        {
-                            "name": "Adventure"
-                        }
-                    ],
-                    "spoken_languages": [{
-                        "name": "English",
-                        "video_url": "https://ok.ru/videoembed/1791784716916"
-                    }]
-                }, {
-                    "tmdb_id": 449924,
-                    "poster_path": "https://image.tmdb.org/t/p/w500/yJdeWaVXa2se9agI6B4mQunVYkB.jpg",
-                    "genres": [{
-                            "name": "Action"
-                        },
-                        {
-                            "name": "Adventure"
-                        }
-                    ],
-                    "spoken_languages": [{
-                        "name": "English",
-                        "video_url": "https://ok.ru/videoembed/1791780326004"
-                    }]
-                },
-                {
-                    "tmdb_id": 419704,
-                    "poster_path": "https://image.tmdb.org/t/p/w500/xBHvZcjRiWyobQ9kxBhO6B2dtRI.jpg",
-                    "genres": [{
-                            "name": "Action"
-                        },
-                        {
-                            "name": "Adventure"
-                        }
-                    ],
-                    "spoken_languages": [{
-                        "name": "English",
-                        "video_url": "https://ok.ru/videoembed/1791788321396"
-                    }]
-                }, {
-                    "tmdb_id": 512200,
-                    "poster_path": "https://image.tmdb.org/t/p/w500/jyw8VKYEiM1UDzPB7NsisUgBeJ8.jpg",
-                    "genres": [{
-                            "name": "Action"
-                        },
-                        {
-                            "name": "Adventure"
-                        }
-                    ],
-                    "spoken_languages": [{
-                        "name": "English",
-                        "video_url": "https://ok.ru/videoembed/1791784716916"
-                    }]
-                }, {
-                    "tmdb_id": 449924,
-                    "poster_path": "https://image.tmdb.org/t/p/w500/yJdeWaVXa2se9agI6B4mQunVYkB.jpg",
-                    "genres": [{
-                            "name": "Action"
-                        },
-                        {
-                            "name": "Adventure"
-                        }
-                    ],
-                    "spoken_languages": [{
-                        "name": "English",
-                        "video_url": "https://ok.ru/videoembed/1791780326004"
-                    }]
+                    "name": "Castellano",
+                    "video_url": "https://feurl.com/v/npd64f2rr-d74pq"
                 }
+            ]
+        },
+        {
+            "tmdb_id": 406994,
+            "poster_path": "https://image.tmdb.org/t/p/original/8Tj2cWlKMKRm1t6MtvBGFWeZ99y.jpg",
+            "spoken_languages": [{
+                    "name": "Latino",
+                    "video_url": "https://www.playembed.com/v/gq253a-xgdm-0mr"
+                },
+                {
+                    "name": "Latino",
+                    "video_url": "https://ok.ru/video/1937529768558"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 634336,
+            "poster_path": "https://image.tmdb.org/t/p/original/ofJTmVJb3Wz55xkkGeEcIYWQlgS.jpg",
+            "spoken_languages": [{
+                "name": "Latino",
+                "video_url": "https://www.fembed.com/v/rmqr3tepwm6qx6m"
+            }]
+        },
+        {
+            "tmdb_id": 346364,
+            "poster_path": "https://image.tmdb.org/t/p/original/sSrj4lnhrb113DOPEPTaO2jaDk3.jpg",
+            "spoken_languages": [{
+                "name": "Latino",
+                "video_url": "https://www.playembed.com/v/qy832aewdy1q-yj"
+            }]
+        },
+        {
+            "tmdb_id": 400136,
+            "poster_path": "https://image.tmdb.org/t/p/original/yxzNUk906GnHAknnXeHj8KuGbmj.jpg",
+            "spoken_languages": [{
+                "name": "Latino",
+                "video_url": "https://feurl.com/v/6wq3kt0xe03xwem"
+            }]
+        },
+        {
+            "tmdb_id": 474350,
+            "poster_path": "https://image.tmdb.org/t/p/original/9oERKIVyTWpHNum3STVsAGD4ojz.jpg",
+            "spoken_languages": [{
+                "name": "Latino",
+                "video_url": "https://www.playembed.com/v/j-8y7hdj8xwzgp8"
+            }]
+        },
+        {
+            "tmdb_id": 653765,
+            "poster_path": "https://image.tmdb.org/t/p/original/xE5G0nY3yKnTxp9tIEev06tsm3L.jpg",
+            "spoken_languages": [{
+                "name": "Latino",
+                "video_url": "https://www.fembed.com/v/mr643h54n811m31"
+            }]
+        },
+        {
+            "tmdb_id": 434555,
+            "poster_path": "https://image.tmdb.org/t/p/original/vR6Zaevn3imnkXsbdgBiAdIHNgK.jpg",
+            "spoken_languages": [{
+                    "name": "Latino",
+                    "video_url": "https://feurl.com/v/dwvr855lp9g"
+                },
+                {
+                    "name": "Castellano",
+                    "video_url": "https://feurl.com/v/eno8xyyw091"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 513857,
+            "poster_path": "https://image.tmdb.org/t/p/original/A8qXRAshLdsEWx65HLJhjNbek8r.jpg",
+            "spoken_languages": [{
+                    "name": "Latino",
+                    "video_url": "https://www.fembed.com/v/54vyg0xqxvl"
+                },
+                {
+                    "name": "Castellano",
+                    "video_url": "https://feurl.com/v/pm954mx78ol"
+                }
+            ]
+        }
     ]
 }
