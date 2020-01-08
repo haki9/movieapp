@@ -3,7 +3,7 @@
     "data": [{
 
             "tmdb_id": 18405,
-            "poster_path": "https://image.tmdb.org/t/p/w250/aYWuYwtCyJaSUVETsAAEHFXLSWf.jpg",
+            "poster_path": "https://image.tmdb.org/t/p/w500/aYWuYwtCyJaSUVETsAAEHFXLSWf.jpg",
             "spoken_languages": [{
                     "name": "Latino",
                     "video_url": "https://feurl.com/v/4l08ruz40467mjw"
@@ -17,7 +17,7 @@
         {
 
             "tmdb_id": 447332,
-            "poster_path": "https://image.tmdb.org/t/p/w250/lMFgbCskJgsJdPH81SwVZOc1hNs.jpg",
+            "poster_path": "https://image.tmdb.org/t/p/w500/lMFgbCskJgsJdPH81SwVZOc1hNs.jpg",
             "spoken_languages": [{
                     "name": "Latino",
                     "video_url": "https://feurl.com/v/7z9-jdr22vx"
@@ -36,7 +36,7 @@
         {
 
             "tmdb_id": 538858,
-            "poster_path": "https://image.tmdb.org/t/p/w250/5Q3Iz5YaGZVnvk3tjDDrW71iaym.jpg",
+            "poster_path": "https://image.tmdb.org/t/p/w500/5Q3Iz5YaGZVnvk3tjDDrW71iaym.jpg",
             "spoken_languages": [{
                 "name": "Sub-Español",
                 "video_url": "https://ok.ru/video/1184295488115"
@@ -45,7 +45,7 @@
         {
 
             "tmdb_id": 467012,
-            "poster_path": "https://image.tmdb.org/t/p/w250/2XB9EO9L8t0ryipAoB9WlsxXOIl.jpg",
+            "poster_path": "https://image.tmdb.org/t/p/w500/2XB9EO9L8t0ryipAoB9WlsxXOIl.jpg",
             "spoken_languages": [{
                     "name": "Latino",
                     "video_url": "https://www.fembed.com/v/mzok-76819q"
@@ -64,7 +64,7 @@
         {
 
             "tmdb_id": 432579,
-            "poster_path": "https://image.tmdb.org/t/p/w250/2B5LnI7tytfKk7SnHCyFTVkBFWy.jpg",
+            "poster_path": "https://image.tmdb.org/t/p/w500/2B5LnI7tytfKk7SnHCyFTVkBFWy.jpg",
             "spoken_languages": [{
                 "name": "Sub-Español",
                 "video_url": "https://feurl.com/v/40ox5gdryv8?c1"
@@ -73,7 +73,7 @@
         {
 
             "tmdb_id": 493922,
-            "poster_path": "https://image.tmdb.org/t/p/w250/zh2RJ5SlzLe4OSE0XYUvISiDNem.jpg",
+            "poster_path": "https://image.tmdb.org/t/p/w500/zh2RJ5SlzLe4OSE0XYUvISiDNem.jpg",
             "spoken_languages": [{
                     "name": "Latino",
                     "video_url": "https://www.fembed.com/v/pkwk0um47488k5w"
@@ -87,7 +87,7 @@
         {
 
             "tmdb_id": 500664,
-            "poster_path": "https://image.tmdb.org/t/p/w250/sjR6S9pP9OcLaQTqgFLdaFd672R.jpg",
+            "poster_path": "https://image.tmdb.org/t/p/w500/sjR6S9pP9OcLaQTqgFLdaFd672R.jpg",
             "spoken_languages": [{
                     "name": "Latino",
                     "video_url": "https://www.fembed.com/v/zy9nxr4-8v1"
@@ -101,7 +101,7 @@
         {
 
             "tmdb_id": 300668,
-            "poster_path": "https://image.tmdb.org/t/p/w250/9kJH2MZ5vaOjuHVvUcnwpa3qCuS.jpg",
+            "poster_path": "https://image.tmdb.org/t/p/w500/9kJH2MZ5vaOjuHVvUcnwpa3qCuS.jpg",
             "spoken_languages": [{
                 "name": "Latino",
                 "video_url": "https://feurl.com/v/1x9qx8w7xv4"
@@ -110,7 +110,7 @@
         {
 
             "tmdb_id": 424139,
-            "poster_path": "https://image.tmdb.org/t/p/w250/v95lURdIFz4A6nqD7pcwv4IWj8H.jpg",
+            "poster_path": "https://image.tmdb.org/t/p/w500/v95lURdIFz4A6nqD7pcwv4IWj8H.jpg",
             "spoken_languages": [{
                     "name": "Latino",
                     "video_url": "https://www.fembed.com/v/mrgrwb52011-5dg"
@@ -124,7 +124,7 @@
         {
 
             "tmdb_id": 396535,
-            "poster_path": "https://image.tmdb.org/t/p/w250/anomz7b3GQtHPFH34SODDBBIUad.jpg",
+            "poster_path": "https://image.tmdb.org/t/p/w500/anomz7b3GQtHPFH34SODDBBIUad.jpg",
             "spoken_languages": [{
                     "name": "Latino",
                     "video_url": "https://www.fembed.com/v/6m92jkmgdor"
@@ -148,7 +148,7 @@
         {
 
             "tmdb_id": 138843,
-            "poster_path": "https://image.tmdb.org/t/p/w250/opKxoICmroU1qFKtxwMZwQY9mA2.jpg",
+            "poster_path": "https://image.tmdb.org/t/p/w500/opKxoICmroU1qFKtxwMZwQY9mA2.jpg",
             "spoken_languages": [{
                     "name": "Latino",
                     "video_url": "https://www.fembed.com/v/8goz581myod"
@@ -167,7 +167,7 @@
         {
 
             "tmdb_id": 259693,
-            "poster_path": "https://image.tmdb.org/t/p/w250/x4jUJ0fF60SSOeUUTkaRtmnDvwG.jpg",
+            "poster_path": "https://image.tmdb.org/t/p/w500/x4jUJ0fF60SSOeUUTkaRtmnDvwG.jpg",
             "spoken_languages": [{
                     "name": "Latino",
                     "video_url": "https://www.fembed.com/v/409x5w57yo8"
@@ -187,7 +187,7 @@
         {
 
             "tmdb_id": 419430,
-            "poster_path": "https://image.tmdb.org/t/p/w250/xiMoqa0bmjuyuXYqKGwrTSJL8nI.jpg",
+            "poster_path": "https://image.tmdb.org/t/p/w500/xiMoqa0bmjuyuXYqKGwrTSJL8nI.jpg",
             "spoken_languages": [{
                     "name": "Latino",
                     "video_url": "https://www.fembed.com/v/54oy532zx9l"
@@ -201,7 +201,7 @@
         {
 
             "tmdb_id": 458723,
-            "poster_path": "https://image.tmdb.org/t/p/w250/kUEbVMrs80nWXtTA8tKd8jRwnIn.jpg",
+            "poster_path": "https://image.tmdb.org/t/p/w500/kUEbVMrs80nWXtTA8tKd8jRwnIn.jpg",
             "spoken_languages": [{
                     "name": "Latino",
                     "video_url": "https://www.fembed.com/v/38p80hm473l70lm"
@@ -215,7 +215,7 @@
         {
 
             "tmdb_id": 530385,
-            "poster_path": "https://image.tmdb.org/t/p/w250/km0ta4N96yjoZPVy5A3gbcE3Ne8.jpg",
+            "poster_path": "https://image.tmdb.org/t/p/w500/km0ta4N96yjoZPVy5A3gbcE3Ne8.jpg",
             "spoken_languages": [{
                     "name": "Latino",
                     "video_url": "https://feurl.com/v/w7r72in7mx2364z"
@@ -229,7 +229,7 @@
         {
 
             "tmdb_id": 438799,
-            "poster_path": "https://image.tmdb.org/t/p/w250/vUlNBh4JAHMPKwKAJnX9VVW6gZL.jpg",
+            "poster_path": "https://image.tmdb.org/t/p/w500/vUlNBh4JAHMPKwKAJnX9VVW6gZL.jpg",
             "spoken_languages": [{
                     "name": "Latino",
                     "video_url": "https://www.fembed.com/v/ewmwxc-071xzz1g"
@@ -243,7 +243,7 @@
         {
 
             "tmdb_id": 294963,
-            "poster_path": "https://image.tmdb.org/t/p/w250/3gNb28ht13WjKMMEvO1e9syB6uX.jpg",
+            "poster_path": "https://image.tmdb.org/t/p/w500/3gNb28ht13WjKMMEvO1e9syB6uX.jpg",
             "spoken_languages": [{
                     "name": "Castellano",
                     "video_url": "https://www.fembed.com/v/1l96j5n2lv5"
@@ -257,7 +257,7 @@
         {
 
             "tmdb_id": 567609,
-            "poster_path": "https://image.tmdb.org/t/p/w250/47BlTRVQ43NyzgMWPLOkKYYnHez.jpg",
+            "poster_path": "https://image.tmdb.org/t/p/w500/47BlTRVQ43NyzgMWPLOkKYYnHez.jpg",
             "spoken_languages": [{
                     "name": "Latino",
                     "video_url": "https://www.fembed.com/v/38p80hmlydxkkgl"
@@ -271,7 +271,7 @@
         {
 
             "tmdb_id": 300669,
-            "poster_path": "https://image.tmdb.org/t/p/w250/eXH720nmzylC0K5sETAYFVZoVZn.jpg",
+            "poster_path": "https://image.tmdb.org/t/p/w500/eXH720nmzylC0K5sETAYFVZoVZn.jpg",
             "spoken_languages": [{
                     "name": "Latino",
                     "video_url": "https://feurl.com/v/05olx-2nno6"
@@ -290,7 +290,7 @@
         {
 
             "tmdb_id": 313922,
-            "poster_path": "https://image.tmdb.org/t/p/w250/eaveo5ujQPyBfOWG7UVN7j5tz34.jpg",
+            "poster_path": "https://image.tmdb.org/t/p/w500/eaveo5ujQPyBfOWG7UVN7j5tz34.jpg",
             "spoken_languages": [{
                     "name": "Latino",
                     "video_url": "https://feurl.com/v/4l90jwk2xvq"
@@ -314,7 +314,7 @@
         {
 
             "tmdb_id": 21208,
-            "poster_path": "https://image.tmdb.org/t/p/w250/nz34QOJwxCTDdkIeaHJhca44U6I.jpg",
+            "poster_path": "https://image.tmdb.org/t/p/w500/nz34QOJwxCTDdkIeaHJhca44U6I.jpg",
             "spoken_languages": [{
                     "name": "Latino",
                     "video_url": "https://www.fembed.com/v/6mo2jk28dvr"
@@ -328,7 +328,7 @@
         {
 
             "tmdb_id": 462593,
-            "poster_path": "https://image.tmdb.org/t/p/w250/dC5i0PPs60x21AgNBNAkhqA0pxQ.jpg",
+            "poster_path": "https://image.tmdb.org/t/p/w500/dC5i0PPs60x21AgNBNAkhqA0pxQ.jpg",
             "spoken_languages": [{
                     "name": "Latino",
                     "video_url": "https://www.fembed.com/v/05olx-xlno6"
@@ -342,7 +342,7 @@
         {
 
             "tmdb_id": 480308,
-            "poster_path": "https://image.tmdb.org/t/p/w250/bRrLhdGgnRXfRVJloUjyChBVhK1.jpg",
+            "poster_path": "https://image.tmdb.org/t/p/w500/bRrLhdGgnRXfRVJloUjyChBVhK1.jpg",
             "spoken_languages": [{
                 "name": "Sub-Español",
                 "video_url": "https://ok.ru/video/867673836147"
@@ -351,7 +351,7 @@
         {
 
             "tmdb_id": 270303,
-            "poster_path": "https://image.tmdb.org/t/p/w250/iwnQ1JH1wdWrGYkgWySptJ5284A.jpg",
+            "poster_path": "https://image.tmdb.org/t/p/w500/iwnQ1JH1wdWrGYkgWySptJ5284A.jpg",
             "spoken_languages": [{
                     "name": "Latino",
                     "video_url": "https://feurl.com/v/4dvjx6mey91"
@@ -379,7 +379,7 @@
         {
 
             "tmdb_id": 397243,
-            "poster_path": "https://image.tmdb.org/t/p/w250/uPHYfUZLgMFhmufqNrZFRsqaByo.jpg",
+            "poster_path": "https://image.tmdb.org/t/p/w500/uPHYfUZLgMFhmufqNrZFRsqaByo.jpg",
             "spoken_languages": [{
                     "name": "Latino",
                     "video_url": "https://www.fembed.com/v/059lxzgwn96"
@@ -402,7 +402,7 @@
         {
 
             "tmdb_id": 521029,
-            "poster_path": "https://image.tmdb.org/t/p/w250/gntTDFXAbMhhdLn1Jhv9TBVnKiC.jpg",
+            "poster_path": "https://image.tmdb.org/t/p/w500/gntTDFXAbMhhdLn1Jhv9TBVnKiC.jpg",
             "spoken_languages": [{
                     "name": "Latino",
                     "video_url": "https://feurl.com/v/88q82h8z542yekd"
@@ -417,7 +417,7 @@
 
 
             "tmdb_id": 310131,
-            "poster_path": "https://image.tmdb.org/t/p/w250/ysIDVaIDPmJnXCbrNTsqpICbn44.jpg",
+            "poster_path": "https://image.tmdb.org/t/p/w500/ysIDVaIDPmJnXCbrNTsqpICbn44.jpg",
             "spoken_languages": [{
                     "name": "Latino",
                     "video_url": "https://feurl.com/v/zy9nx-qq8v1"
@@ -440,7 +440,7 @@
         {
 
             "tmdb_id": 405774,
-            "poster_path": "https://image.tmdb.org/t/p/w250/mJXlEnJwIz3vOq51G3SrJlcr1yr.jpg",
+            "poster_path": "https://image.tmdb.org/t/p/w500/mJXlEnJwIz3vOq51G3SrJlcr1yr.jpg",
             "spoken_languages": [{
                     "name": "Latino",
                     "video_url": "https://www.fembed.com/v/d-z-pixnkex-x07"
@@ -454,7 +454,7 @@
         {
 
             "tmdb_id": 375366,
-            "poster_path": "https://image.tmdb.org/t/p/w250/sd1XxXh4LD4gWRnRuhTvXgcXJ5Y.jpg",
+            "poster_path": "https://image.tmdb.org/t/p/w500/sd1XxXh4LD4gWRnRuhTvXgcXJ5Y.jpg",
             "spoken_languages": [{
                     "name": "Latino",
                     "video_url": "https://www.fembed.com/v/40vx5y2xy98"
@@ -468,7 +468,7 @@
         {
 
             "tmdb_id": 531309,
-            "poster_path": "https://image.tmdb.org/t/p/w250/bQmRemkGS3SMAexgZND6ey02lYW.jpg",
+            "poster_path": "https://image.tmdb.org/t/p/w500/bQmRemkGS3SMAexgZND6ey02lYW.jpg",
             "spoken_languages": [{
                     "name": "Latino",
                     "video_url": "https://www.fembed.com/v/ewmwxc-072xq1k-"
@@ -482,7 +482,7 @@
         {
 
             "tmdb_id": 396422,
-            "poster_path": "https://image.tmdb.org/t/p/w250/x0pekWNy7GS37bm30zuxWNLPXj8.jpg",
+            "poster_path": "https://image.tmdb.org/t/p/w500/x0pekWNy7GS37bm30zuxWNLPXj8.jpg",
             "spoken_languages": [{
                     "name": "Latino",
                     "video_url": "https://feurl.com/v/05olxd0dno6"
@@ -496,7 +496,7 @@
         {
 
             "tmdb_id": 552670,
-            "poster_path": "https://image.tmdb.org/t/p/w250/fD1aB4CezivU3LMwkI2oD0u87JG.jpg",
+            "poster_path": "https://image.tmdb.org/t/p/w500/fD1aB4CezivU3LMwkI2oD0u87JG.jpg",
             "spoken_languages": [{
                 "name": "Latino",
                 "video_url": "https://www.fembed.com/v/npnpwi2r3kgz0e4"
@@ -505,7 +505,7 @@
         {
 
             "tmdb_id": 467660,
-            "poster_path": "https://image.tmdb.org/t/p/w250/jJ635DsVJvPtOntz30WtqXlGFG3.jpg",
+            "poster_path": "https://image.tmdb.org/t/p/w500/jJ635DsVJvPtOntz30WtqXlGFG3.jpg",
             "spoken_languages": [{
                     "name": "Latino",
                     "video_url": "https://www.fembed.com/v/-e4e1tpwd-8nnen"
@@ -519,7 +519,7 @@
         {
 
             "tmdb_id": 512196,
-            "poster_path": "https://image.tmdb.org/t/p/w250/q6PSTBNlI9WtfuMlngz82yaudUg.jpg",
+            "poster_path": "https://image.tmdb.org/t/p/w500/q6PSTBNlI9WtfuMlngz82yaudUg.jpg",
             "spoken_languages": [{
                     "name": "Latino",
                     "video_url": "https://feurl.com/v/6wzwec0gkjj-87x"
@@ -533,7 +533,7 @@
         {
 
             "tmdb_id": 9532,
-            "poster_path": "https://image.tmdb.org/t/p/w250/lyprRmrmAn17hgsjiSK89D1jIil.jpg",
+            "poster_path": "https://image.tmdb.org/t/p/w500/lyprRmrmAn17hgsjiSK89D1jIil.jpg",
             "spoken_languages": [{
                     "name": "Latino",
                     "video_url": "https://www.fembed.com/v/rm4meiejrzk7xy6"
@@ -547,7 +547,7 @@
         {
 
             "tmdb_id": 470229,
-            "poster_path": "https://image.tmdb.org/t/p/w250/htA4DEnBQf7Wg4M1jsUr7kHALrV.jpg",
+            "poster_path": "https://image.tmdb.org/t/p/w500/htA4DEnBQf7Wg4M1jsUr7kHALrV.jpg",
             "spoken_languages": [{
                     "name": "Latino",
                     "video_url": "https://www.fembed.com/v/rm4meiejrwqr012"
@@ -561,7 +561,7 @@
         {
 
             "tmdb_id": 460885,
-            "poster_path": "https://image.tmdb.org/t/p/w250/pVyE79nFdo2lFtKA5J7ziFAeKhP.jpg",
+            "poster_path": "https://image.tmdb.org/t/p/w500/pVyE79nFdo2lFtKA5J7ziFAeKhP.jpg",
             "spoken_languages": [{
                     "name": "Latino",
                     "video_url": "https://feurl.com/v/q232eiey5848znq"
@@ -575,7 +575,7 @@
         {
 
             "tmdb_id": 399366,
-            "poster_path": "https://image.tmdb.org/t/p/w250/sQYr9634GY0ZRX68pyEh1XNXhCR.jpg",
+            "poster_path": "https://image.tmdb.org/t/p/w500/sQYr9634GY0ZRX68pyEh1XNXhCR.jpg",
             "spoken_languages": [{
                     "name": "Latino",
                     "video_url": "https://feurl.com/v/54vy53wjxol"
@@ -593,7 +593,7 @@
         {
 
             "tmdb_id": 548178,
-            "poster_path": "https://image.tmdb.org/t/p/w250/iad3W2u2j2zh6hYE9IMc9UWyhp5.jpg",
+            "poster_path": "https://image.tmdb.org/t/p/w500/iad3W2u2j2zh6hYE9IMc9UWyhp5.jpg",
             "spoken_languages": [{
                 "name": "Latino",
                 "video_url": "https://www.fembed.com/v/38p80hm47e8pqg7"
@@ -602,7 +602,7 @@
         {
 
             "tmdb_id": 287903,
-            "poster_path": "https://image.tmdb.org/t/p/w250/cBhZQnvlj0fOwDT6qrTz5f9nsGA.jpg",
+            "poster_path": "https://image.tmdb.org/t/p/w500/cBhZQnvlj0fOwDT6qrTz5f9nsGA.jpg",
             "spoken_languages": [{
                 "name": "Latino",
                 "video_url": "https://www.playembed.com/v/605zws0gpzz1erz"
@@ -610,7 +610,7 @@
         },
         {
             "tmdb_id": 417384,
-            "poster_path": "https://image.tmdb.org/t/p/w250/2o2thWyv4q1s5CLkc1ffxyVFkti.jpg",
+            "poster_path": "https://image.tmdb.org/t/p/w500/2o2thWyv4q1s5CLkc1ffxyVFkti.jpg",
             "spoken_languages": [{
                     "name": "Latino",
                     "video_url": "https://www.playembed.com/v/qy832aekj1l1xjy"
@@ -623,7 +623,7 @@
         },
         {
             "tmdb_id": 406994,
-            "poster_path": "https://image.tmdb.org/t/p/w250/8Tj2cWlKMKRm1t6MtvBGFWeZ99y.jpg",
+            "poster_path": "https://image.tmdb.org/t/p/w500/8Tj2cWlKMKRm1t6MtvBGFWeZ99y.jpg",
             "spoken_languages": [{
                     "name": "Latino",
                     "video_url": "https://www.playembed.com/v/gq253a-xgdm-0mr"
@@ -636,7 +636,7 @@
         },
         {
             "tmdb_id": 634336,
-            "poster_path": "https://image.tmdb.org/t/p/w250/ofJTmVJb3Wz55xkkGeEcIYWQlgS.jpg",
+            "poster_path": "https://image.tmdb.org/t/p/w500/ofJTmVJb3Wz55xkkGeEcIYWQlgS.jpg",
             "spoken_languages": [{
                 "name": "Latino",
                 "video_url": "https://www.fembed.com/v/rmqr3tepwm6qx6m"
@@ -644,7 +644,7 @@
         },
         {
             "tmdb_id": 346364,
-            "poster_path": "https://image.tmdb.org/t/p/w250/sSrj4lnhrb113DOPEPTaO2jaDk3.jpg",
+            "poster_path": "https://image.tmdb.org/t/p/w500/sSrj4lnhrb113DOPEPTaO2jaDk3.jpg",
             "spoken_languages": [{
                 "name": "Latino",
                 "video_url": "https://www.playembed.com/v/qy832aewdy1q-yj"
@@ -652,7 +652,7 @@
         },
         {
             "tmdb_id": 400136,
-            "poster_path": "https://image.tmdb.org/t/p/w250/yxzNUk906GnHAknnXeHj8KuGbmj.jpg",
+            "poster_path": "https://image.tmdb.org/t/p/w500/yxzNUk906GnHAknnXeHj8KuGbmj.jpg",
             "spoken_languages": [{
                 "name": "Latino",
                 "video_url": "https://feurl.com/v/6wq3kt0xe03xwem"
@@ -660,7 +660,7 @@
         },
         {
             "tmdb_id": 474350,
-            "poster_path": "https://image.tmdb.org/t/p/w250/9oERKIVyTWpHNum3STVsAGD4ojz.jpg",
+            "poster_path": "https://image.tmdb.org/t/p/w500/9oERKIVyTWpHNum3STVsAGD4ojz.jpg",
             "spoken_languages": [{
                 "name": "Latino",
                 "video_url": "https://www.playembed.com/v/j-8y7hdj8xwzgp8"
@@ -668,7 +668,7 @@
         },
         {
             "tmdb_id": 653765,
-            "poster_path": "https://image.tmdb.org/t/p/w250/xE5G0nY3yKnTxp9tIEev06tsm3L.jpg",
+            "poster_path": "https://image.tmdb.org/t/p/w500/xE5G0nY3yKnTxp9tIEev06tsm3L.jpg",
             "spoken_languages": [{
                 "name": "Latino",
                 "video_url": "https://www.fembed.com/v/mr643h54n811m31"
@@ -676,7 +676,7 @@
         },
         {
             "tmdb_id": 434555,
-            "poster_path": "https://image.tmdb.org/t/p/w250/vR6Zaevn3imnkXsbdgBiAdIHNgK.jpg",
+            "poster_path": "https://image.tmdb.org/t/p/w500/vR6Zaevn3imnkXsbdgBiAdIHNgK.jpg",
             "spoken_languages": [{
                     "name": "Latino",
                     "video_url": "https://feurl.com/v/dwvr855lp9g"
@@ -689,7 +689,7 @@
         },
         {
             "tmdb_id": 513857,
-            "poster_path": "https://image.tmdb.org/t/p/w250/A8qXRAshLdsEWx65HLJhjNbek8r.jpg",
+            "poster_path": "https://image.tmdb.org/t/p/w500/A8qXRAshLdsEWx65HLJhjNbek8r.jpg",
             "spoken_languages": [{
                     "name": "Latino",
                     "video_url": "https://www.fembed.com/v/54vyg0xqxvl"
