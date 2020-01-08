@@ -1,11 +1,568 @@
 {
-    "catogory": "Action",
-    "data": [{
+    "catogory": "Accion",
+    "data": [
+        {
+            "tmdb_id": 338970,
+            "poster_path": "https://image.tmdb.org/t/p/original/fLMvphhOso5w3C3m0HOkAxzVCZ8.jpg",
+            "spoken_languages": [
+                {
+                    "name": "Latino",
+                    "video_url": "https://feurl.com/v/4lv0jwzmxoq"
+                },
+                {
+                    "name": "Castellano",
+                    "video_url": "https://feurl.com/v/2w9mn0mwlv6"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 381288,
+            "poster_path": "https://image.tmdb.org/t/p/original/Ag51YF1ZTNTefjhVMVGBCFv8h5s.jpg",
+            "spoken_languages": [
+                {
+                    "name": "Latino",
+                    "video_url": "https://feurl.com/v/rm4meiejr8x-wr2"
+                },
+                {
+                    "name": "Castellano",
+                    "video_url": "https://feurl.com/v/2ere5t2k63mqdzg"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 299534,
+            "poster_path": "https://image.tmdb.org/t/p/original/br6krBFpaYmCSglLBWRuhui7tPc.jpg",
+            "spoken_languages": [
+                {
+                    "name": "Latino",
+                    "video_url": "https://www.fembed.com/v/d-z-pixq-08ed7w"
+                },
+                {
+                    "name": "Castellano",
+                    "video_url": "https://www.fembed.com/v/j7y7ridj4ldrg6j"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 299536,
+            "poster_path": "https://image.tmdb.org/t/p/original/ksBQ4oHQDdJwND8H90ay8CbMihU.jpg",
+            "spoken_languages": [
+                {
+                    "name": "Latino",
+                    "video_url": "https://feurl.com/v/2ere5t2yw5zn-17"
+                },
+                {
+                    "name": "Castellano",
+                    "video_url": "https://feurl.com/v/mrgrwb5njkznzwq"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 554600,
+            "poster_path": "https://image.tmdb.org/t/p/original/yNySAgpAnWmPpYinim9E0tUzJWG.jpg",
+            "spoken_languages": [
+                {
+                    "name": "Sub-Español",
+                    "video_url": "https://feurl.com/v/ryqwmaejewxgzkr"
+                },
+            ]
+        },
+        {
+            "tmdb_id": 27205,
+            "poster_path": "https://image.tmdb.org/t/p/original/iViFPY2O3rSbK84zsw2kEUtmxVP.jpg",
+            "spoken_languages": [
+                {
+                    "name": "Latino",
+                    "video_url": "https://feurl.com/v/40vx5wz3y98"
+                },
+                {
+                    "name": "Latino",
+                    "video_url": "https://vidoza.org/embed-r7kfdi7ah6zg.html"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 458156,
+            "poster_path": "https://image.tmdb.org/t/p/original/aKw7oqYdfn4pkKYvp18Gd1YhK6m.jpg",
+            "spoken_languages": [
+                {
+                    "name": "Latino",
+                    "video_url": "https://www.fembed.com/v/2ere5t2k62-yjpq"
+                },
+                {
+                    "name": "Castellano",
+                    "video_url": "https://feurl.com/v/1e0eqtj64jgm0ny"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 559969,
+            "poster_path": "https://image.tmdb.org/t/p/original/bykSMP21J3RzX3YmYo6hlVH4UE6.jpg",
+            "spoken_languages": [
+                {
+                    "name": "Latino",
+                    "video_url": "https://www.fembed.com/v/w7r72in785mxkyl"
+                },
+                {
+                    "name": "Castellano",
+                    "video_url": "https://www.fembed.com/v/j7y7ridq1nw-pqr"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 360814,
+            "poster_path": "https://image.tmdb.org/t/p/original/j9zZ3YUUyOHvT8znxTpEUvmvpm9.jpg",
+            "spoken_languages": [
+                {
+                    "name": "Latino",
+                    "video_url": "https://feurl.com/v/38p80hm47r55zy4"
+                },
+            ]
+        },
+        {
+            "tmdb_id": 98,
+            "poster_path": "https://image.tmdb.org/t/p/original/iEzmvwybdubElRG0MkqHNS5o92.jpg",
+            "spoken_languages": [
+                {
+                    "name": "Latino",
+                    "video_url": "https://feurl.com/v/88q82h8610k2-5d"
+                },
+            ]
+        },
+        {
+            "tmdb_id": 49026,
+            "poster_path": "https://image.tmdb.org/t/p/original/fsMJEG8gJtIDgJ9VFXcF9xkDBx9.jpg",
+            "spoken_languages": [
+                {
+                    "name": "Latino",
+                    "video_url": "https://www.fembed.com/v/8godedmmqp9"
+                },
+                {
+                    "name": "Sub-Español",
+                    "video_url": "https://www.fembed.com/v/7qv7nq22ywo"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 383498,
+            "poster_path": "https://image.tmdb.org/t/p/original/jx3URmImNMCZuXcfdLM7S5Pivzy.jpg",
+            "spoken_languages": [
+                {
+                    "name": "Latino",
+                    "video_url": "https://www.fembed.com/v/58k8ehdqlrlqegz"
+                },
+                {
+                    "name": "Castellano",
+                    "video_url": "https://feurl.com/v/-e4e1tpm8zwk7zp"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 140607,
+            "poster_path": "https://image.tmdb.org/t/p/original/mtZ36iNsrxtHnx0mLWotdxfsW5U.jpg",
+            "spoken_languages": [
+                {
+                    "name": "Latino",
+                    "video_url": "https://feurl.com/v/6wzwec0x2-1r-4p"
+                },
+                {
+                    "name": "Castellano",
+                    "video_url": "https://feurl.com/v/d-z-pixqz3-25nr"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 359724,
+            "poster_path": "https://image.tmdb.org/t/p/original/kFkZFPBU7vnDDu4m9eOgk7w9W7O.jpg",
+            "spoken_languages": [
+                {
+                    "name": "Latino",
+                    "video_url": "https://feurl.com/v/pkwk0um48jg42j3"
+                },
+                {
+                    "name": "Castellano",
+                    "video_url": "https://www.fembed.com/v/npnpwi2r3326d8j"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 263115,
+            "poster_path": "https://image.tmdb.org/t/p/original/kDsYxmjYfVCL8tio48T83pjRsNU.jpg",
+            "spoken_languages": [
+                {
+                    "name": "Latino",
+                    "video_url": "https://feurl.com/v/rm4meiejr002mr3"
+                },
+                {
+                    "name": "Latino",
+                    "video_url": "https://ok.ru/video/723450137142"
+                }
+				
+                {
+                    "name": "Castellano",
+                    "video_url": "https://www.fembed.com/v/zrkrwbjn4zlxrk8"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 293660,
+            "poster_path": "https://image.tmdb.org/t/p/original/sBH09ufjCU3KuMcGqGItsqeG9dU.jpg",
+            "spoken_languages": [
+                {
+                    "name": "Latino",
+                    "video_url": "https://feurl.com/v/4l90jw11xvq"
+                },
+                {
+                    "name": "Latino",
+                    "video_url": "https://ok.ru/video/917217872438"
+                }
+				
+                {
+                    "name": "Castellano",
+                    "video_url": "https://www.fembed.com/v/zyvnxr7e8o1"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 429617,
+            "poster_path": "https://image.tmdb.org/t/p/original/iKVR1ba3W1wCm9bVCcpnNvxQUWX.jpg",
+            "spoken_languages": [
+                {
+                    "name": "Latino",
+                    "video_url": "https://www.fembed.com/v/-e4e1tpwqw6z86l"
+                },
+                {
+                    "name": "Castellano",
+                    "video_url": "https://www.fembed.com/v/88q82h86e6jqggg"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 76341,
+            "poster_path": "https://image.tmdb.org/t/p/original/mnVZLdo9C4X80sJmgcGNpMNCbgk.jpg",
+            "spoken_languages": [
+                {
+                    "name": "Latino",
+                    "video_url": "https://www.fembed.com/v/6wzwec0zrjydrxj"
+                },
+            ]
+        },
+        {
+            "tmdb_id": 127585,
+            "poster_path": "https://image.tmdb.org/t/p/original/yTVqNNp7hWFrFtzxAo5bdVUBuz0.jpg",
+            "spoken_languages": [
+                {
+                    "name": "Latino",
+                    "video_url": "https://feurl.com/v/zyonx-r5891"
+                },
+            ]
+        },
+        {
+            "tmdb_id": 333339,
+            "poster_path": "https://image.tmdb.org/t/p/original/2iuVrtC5IpwLtSFSgkIIIKLs0Zq.jpg",
+            "spoken_languages": [
+                {
+                    "name": "Latino",
+                    "video_url": "https://www.fembed.com/v/4828qhzldnyy23e"
+                },
+                {
+                    "name": "Castellano",
+                    "video_url": "https://www.fembed.com/v/4828qhzldndm-88"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 13475,
+            "poster_path": "https://image.tmdb.org/t/p/original/lV5OpzAss1z06YNagOVap1I35mH.jpg",
+            "spoken_languages": [
+                {
+                    "name": "Latino",
+                    "video_url": "https://www.fembed.com/v/rm4meiejrp76l7p"
+                },
+            ]
+        },
+        {
+            "tmdb_id": 374720,
+            "poster_path": "https://image.tmdb.org/t/p/original/iWzrUYxUfnpmLbm0rwyGKuFwpTO.jpg",
+            "spoken_languages": [
+                {
+                    "name": "Latino",
+                    "video_url": "https://feurl.com/v/zrkrwbj-6477zwz"
+                },
+                {
+                    "name": "Castellano",
+                    "video_url": "https://feurl.com/v/kdxdzi3z42jxj10"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 283995,
+            "poster_path": "https://image.tmdb.org/t/p/original/kdg6Y06jfq9FV7qknWNcKLYtBJn.jpg",
+            "spoken_languages": [
+                {
+                    "name": "Latino",
+                    "video_url": "https://www.fembed.com/v/7z9-r57529x"
+                },
+                {
+                    "name": "Castellano",
+                    "video_url": "https://www.fembed.com/v/88q82h861rwjjzy"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 118340,
+            "poster_path": "https://image.tmdb.org/t/p/original/9Ju7p4daJi5rcTUghYZxHlP15ia.jpg",
+            "spoken_languages": [
+                {
+                    "name": "Latino",
+                    "video_url": "https://www.fembed.com/v/409x5ydxyo8"
+                },
+                {
+                    "name": "Castellano",
+                    "video_url": "https://feurl.com/v/pmo5j3j08vl"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 284053,
+            "poster_path": "https://image.tmdb.org/t/p/original/sgVe7blGP5P71STv2TBXmO86qPo.jpg",
+            "spoken_languages": [
+                {
+                    "name": "Latino",
+                    "video_url": "https://www.fembed.com/v/zyonxrmk891"
+                },
+                {
+                    "name": "Castellano",
+                    "video_url": "https://www.fembed.com/v/1x9qxkppxv4"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 100402,
+            "poster_path": "https://image.tmdb.org/t/p/original/6QBRnyvJHD7slOlX6aukvMwcEu.jpg",
+            "spoken_languages": [
+                {
+                    "name": "Latino",
+                    "video_url": "https://www.fembed.com/v/d-z-pixw8we0g80"
+                },
+                {
+                    "name": "Castellano",
+                    "video_url": "https://feurl.com/v/eno837g4091"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 287947,
+            "poster_path": "https://image.tmdb.org/t/p/original/4f5Rz8uYpcTvo1hHKcQRSaay0ek.jpg",
+            "spoken_languages": [
+                {
+                    "name": "Latino",
+                    "video_url": "https://www.fembed.com/v/xdpdri54j5g-135"
+                },
+                {
+                    "name": "Castellano",
+                    "video_url": "https://www.fembed.com/v/kdxdzi3-23xe6k2"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 137113,
+            "poster_path": "https://image.tmdb.org/t/p/original/xEzDzqNJerVMKwdVKU7ZOtlPVZ7.jpg",
+            "spoken_languages": [
+                {
+                    "name": "Latino",
+                    "video_url": "https://feurl.com/v/7y9w58j2x9j"
+                },
+            ]
+        },
+        {
+            "tmdb_id": 49538,
+            "poster_path": "https://image.tmdb.org/t/p/original/p63jtwBMlec3pLffxHFqs6kOI5P.jpg",
+            "spoken_languages": [
+                {
+                    "name": "Latino",
+                    "video_url": "https://www.fembed.com/v/8x9px8ngqo7"
+                },
+            ]
+        },
+        {
+            "tmdb_id": 517093,
+            "poster_path": "https://image.tmdb.org/t/p/original/okiB4NUriKKbGjAtVSzveicPTtu.jpg",
+            "spoken_languages": [
+                {
+                    "name": "Latino",
+                    "video_url": "https://feurl.com/v/rm4meiejrdmw7pg"
+                },
+            ]
+        },
+        {
+            "tmdb_id": 330459,
+            "poster_path": "https://image.tmdb.org/t/p/original/mAqgFQxaBaLkcQBRQf9YnAz9sNQ.jpg",
+            "spoken_languages": [
+                {
+                    "name": "Latino",
+                    "video_url": "https://www.fembed.com/v/7z9-jw2w2vx"
+                },
+                {
+                    "name": "Castellano",
+                    "video_url": "https://feurl.com/v/6mv2jw65d9r"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 284054,
+            "poster_path": "https://image.tmdb.org/t/p/original/s5JXBTxHUJCKsuEWZ8Z7J6L1JtC.jpg",
+            "spoken_languages": [
+                {
+                    "name": "Latino",
+                    "video_url": "https://www.fembed.com/v/env83ey00o1"
+                },
+                {
+                    "name": "Castellano",
+                    "video_url": "https://feurl.com/v/l080wcny62w0jle"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 19995,
+            "poster_path": "https://image.tmdb.org/t/p/original/pgjs6VwqKa9COml98tqMGjIkoJG.jpg",
+            "spoken_languages": [
+                {
+                    "name": "Latino",
+                    "video_url": "https://feurl.com/v/zyonx-4w891"
+                },
+            ]
+        },
+        {
+            "tmdb_id": 37724,
+            "poster_path": "https://image.tmdb.org/t/p/original/5cHyNrZzi5txPyseWEIba9WK7NA.jpg",
+            "spoken_languages": [
+                {
+                    "name": "Latino",
+                    "video_url": "https://feurl.com/v/kdxdzi3zl0wkd1w"
+                },
+            ]
+        },
+        {
+            "tmdb_id": 181808,
+            "poster_path": "https://image.tmdb.org/t/p/original/rjBwhsOzHKUw2NIOrE7aMqjfe6s.jpg",
+            "spoken_languages": [
+                {
+                    "name": "Latino",
+                    "video_url": "https://feurl.com/v/dwvrx83wpvg"
+                },
+                {
+                    "name": "Castellano",
+                    "video_url": "https://feurl.com/v/d-z-pixqdkd8yy-"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 363088,
+            "poster_path": "https://image.tmdb.org/t/p/original/yk2gpGHkbnyjLSxmhH2rEXTaeeB.jpg",
+            "spoken_languages": [
+                {
+                    "name": "Latino",
+                    "video_url": "https://www.fembed.com/v/kdxdzi3-kyqedlg"
+                },
+                {
+                    "name": "Castellano",
+                    "video_url": "https://feurl.com/v/j7y7rid1-0xz62w"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 207703,
+            "poster_path": "https://image.tmdb.org/t/p/original/62glNfSBoPdr2rUndRrdEUGDIE0.jpg",
+            "spoken_languages": [
+                {
+                    "name": "Latino",
+                    "video_url": "https://feurl.com/v/2ere5t2k6xmq4d-"
+                },
+                {
+                    "name": "Latino",
+                    "video_url": "https://ok.ru/video/776179223094"
+                }
+				
+                {
+                    "name": "Castellano",
+                    "video_url": "https://feurl.com/v/pkwk0umxq1w2mnd"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 24428,
+            "poster_path": "https://image.tmdb.org/t/p/original/rPyWt7IPREDWnE1U8V9iMFzeh0p.jpg",
+            "spoken_languages": [
+                {
+                    "name": "Latino",
+                    "video_url": "https://www.fembed.com/v/05olxd5kno6"
+                },
+                {
+                    "name": "Castellano",
+                    "video_url": "https://feurl.com/v/eno837g-091"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 119450,
+            "poster_path": "https://image.tmdb.org/t/p/original/qNu2N4a9nuGWgkeg3NzdRTDOz5N.jpg",
+            "spoken_languages": [
+                {
+                    "name": "Latino",
+                    "video_url": "https://www.fembed.com/v/54vy5xy1xol"
+                },
+            ]
+        },
+        {
+            "tmdb_id": 353081,
+            "poster_path": "https://image.tmdb.org/t/p/original/cUlWqDLEYMN3OWlOZ0U18WcIw5F.jpg",
+            "spoken_languages": [
+                {
+                    "name": "Latino",
+                    "video_url": "https://www.fembed.com/v/8x9px8egqo7"
+                },
+                {
+                    "name": "Castellano",
+                    "video_url": "https://feurl.com/v/7zv-jw4n2ox"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 399579,
+            "poster_path": "https://image.tmdb.org/t/p/original/quWP5VIzTUf0Hr8AJZLloM6js8I.jpg",
+            "spoken_languages": [
+                {
+                    "name": "Latino",
+                    "video_url": "https://www.fembed.com/v/78m8ehgypgdm0-k"
+                },
+                {
+                    "name": "Castellano",
+                    "video_url": "https://feurl.com/v/g353zb-d8yg8513"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 273481,
+            "poster_path": "https://image.tmdb.org/t/p/original/voDX6lrA37mtk1pVVluVn9KI0us.jpg",
+            "spoken_languages": [
+                {
+                    "name": "Latino",
+                    "video_url": "https://www.fembed.com/v/6mo2jkmxdvr"
+                },
+                {
+                    "name": "Castellano",
+                    "video_url": "https://feurl.com/v/40ox5w28yv8"
+                }
+            ]
+        },
+        {
             "tmdb_id": 480105,
             "poster_path": "https://image.tmdb.org/t/p/w500/tWZ9tgEEpeku0hBjjHLBPHd0jXT.jpg",
-            "spoken_languages": [{
+            "spoken_languages": [
+                {
                     "name": "Latino",
-                    "video_url": "https://www.playembed.com/v/qy832aewjryq42jmm"
+                    "video_url": "https://www.playembed.com/v/qy832aewjryq42j"
                 },
                 {
                     "name": "Castellano",
@@ -16,7 +573,8 @@
         {
             "tmdb_id": 403119,
             "poster_path": "https://image.tmdb.org/t/p/w500/9XupsXE6vFjR8qvy6WaR46ScrIw.jpg",
-            "spoken_languages": [{
+            "spoken_languages": [
+                {
                     "name": "Latino",
                     "video_url": "https://www.playembed.com/v/qy832aewjryq42j"
                 },
@@ -29,23 +587,28 @@
         {
             "tmdb_id": 1271,
             "poster_path": "https://image.tmdb.org/t/p/w500/lGv19gokQvgC7jgjWqapIachnxU.jpg",
-            "spoken_languages": [{
-                "name": "Latino",
-                "video_url": "https://www.playembed.com/v/z78kraj2d34w511"
-            }]
+            "spoken_languages": [
+                {
+                    "name": "Latino",
+                    "video_url": "https://www.playembed.com/v/z78kraj2d34w511"
+                }
+            ]
         },
         {
             "tmdb_id": 429351,
             "poster_path": "https://image.tmdb.org/t/p/w500/8YcjGJtW4AEHyNH8yrs8FAaPBM.jpg",
-            "spoken_languages": [{
-                "name": "Latino",
-                "video_url": "https://www.playembed.com/v/47m28azwegdyx1y"
-            }]
+            "spoken_languages": [
+                {
+                    "name": "Latino",
+                    "video_url": "https://www.playembed.com/v/47m28azwegdyx1y"
+                }
+            ]
         },
         {
             "tmdb_id": 578189,
             "poster_path": "https://image.tmdb.org/t/p/w500/fjmMu9fpqMMF17mCyLhNfkagKB0.jpg",
-            "spoken_languages": [{
+            "spoken_languages": [
+                {
                     "name": "Latino",
                     "video_url": "https://www.playembed.com/v/47m28azweg657n7"
                 },
@@ -62,7 +625,8 @@
         {
             "tmdb_id": 505177,
             "poster_path": "https://image.tmdb.org/t/p/w500/ysyXA46FXVI38f11mNBoc5ZbYRj.jpg",
-            "spoken_languages": [{
+            "spoken_languages": [
+                {
                     "name": "Latino",
                     "video_url": "https://www.playembed.com/v/my8gra54mzllkd8"
                 },
@@ -79,7 +643,8 @@
         {
             "tmdb_id": 1422,
             "poster_path": "https://image.tmdb.org/t/p/w500/mupWl1yjc7S8nvce6KpYksZdlTy.jpg",
-            "spoken_languages": [{
+            "spoken_languages": [
+                {
                     "name": "Latino",
                     "video_url": "https://www.playembed.com/v/24kreh2qd6wl8pw"
                 },
@@ -92,7 +657,8 @@
         {
             "tmdb_id": 453405,
             "poster_path": "https://image.tmdb.org/t/p/w500/gJpbw3pVCAKksp1LgsTGW7c8SFV.jpg",
-            "spoken_languages": [{
+            "spoken_languages": [
+                {
                     "name": "Latino",
                     "video_url": "https://www.playembed.com/v/gq253a-x-4l08-q"
                 },
@@ -109,15 +675,18 @@
         {
             "tmdb_id": 460321,
             "poster_path": "https://image.tmdb.org/t/p/w500/bpiHHGgKKuJqGIhTV3ivQWhxxhk.jpg",
-            "spoken_languages": [{
-                "name": "Latino",
-                "video_url": "https://ok.ru/video/1418362030702"
-            }]
+            "spoken_languages": [
+                {
+                    "name": "Latino",
+                    "video_url": "https://ok.ru/video/1418362030702"
+                }
+            ]
         },
         {
             "tmdb_id": 595985,
             "poster_path": "https://image.tmdb.org/t/p/w500/a17PQiWS1kzILONsmhdyPDhaOZL.jpg",
-            "spoken_languages": [{
+            "spoken_languages": [
+                {
                     "name": "Latino",
                     "video_url": "https://www.fembed.com/v/481peizwwmjkkyl"
                 },
